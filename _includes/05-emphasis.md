@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Almajo is short for*
+_Albin Mathews Joseph_
+
+**Albin Mathews Joseph is long for**
+__Almajo__
+
+_some call me **Amaljo** I dont Like them_
